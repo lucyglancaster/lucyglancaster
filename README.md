@@ -6,7 +6,7 @@ Welcome to my portfolio! Below you can find my latest demo reels, my skills and 
 ---
 
 ## 🎬 Demo Reels
-Click the link below to watch my latest reels, featuring linear sound design, asset/stem creation, and original compositions.
+Click the links below to watch my latest reels, featuring linear sound design, asset/stem creation, and original compositions.
 
 👉 **[Film & TV Composition](https://youtu.be/Nj6T0BiY5Mg)**
 👉 **[Videogame Composition](https://youtu.be/F14n9yRoHoM)**
