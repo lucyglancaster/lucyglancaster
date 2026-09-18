@@ -23,4 +23,4 @@ Click the links below to watch my latest reels, featuring linear sound design, a
 
 ## ✉️ Contact Me
 * **Email:** lucy.g.lancaster@gmail.com
-* **LinkedIn:** (https://www.linkedin.com/in/lucy-lancaster-b5a226304/)
+* **LinkedIn:** https://www.linkedin.com/in/lucy-lancaster-b5a226304/
