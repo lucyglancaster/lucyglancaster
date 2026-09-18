@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Lucy 👋
+### Sound Designer & Composer
 
-<!--
-**lucyglancaster/lucyglancaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my portfolio! Below you can find my latest demo reels, my skills and my contact details.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎬 Demo Reels
+Click the link below to watch my latest reels, featuring linear sound design, asset/stem creation, and original compositions.
+
+👉 **[Film & TV Composition](https://youtu.be/Nj6T0BiY5Mg)**
+👉 **[Videogame Composition](https://youtu.be/F14n9yRoHoM)**
+👉 **[Sound Design](https://youtu.be/8r4oTvNTTfs)**
+
+---
+
+## 🛠️ Skills & Tools
+* **DAWs:** Logic Pro (Willing/able to learn more)
+* **Middleware:** Wwise
+* **Specialties:** Composing with Technology, Sound Design
+
+---
+
+## ✉️ Contact Me
+* **Email:** lucy.g.lancaster@gmail.com
+* **LinkedIn:** (https://www.linkedin.com/in/lucy-lancaster-b5a226304/)
